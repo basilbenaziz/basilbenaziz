@@ -4,9 +4,12 @@
 </p>
 
 
-- 🌱 I’m currently learning **JAVA**
-- 📫 How to reach me: [@basilbenaziz](https://twitter.com/basilbenaziz) on Twitter
 
+- 📫 How to reach me: [@basilbenaziz](https://twitter.com/basilbenaziz) on Twitter
+- 📫 How to reach me: [@basilbenaziz](basilbenaziz@gmail.com) on Email
+-------
+## Skills
+- 🌱 I’m currently learning **JAVA**
 
 -------
 **Weekly development breakdown**
