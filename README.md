@@ -6,8 +6,7 @@
 ## ◊ About me 
 -  Mac operating system 
 > 📫 How to reach me:
-- [@basilbenaziz](https://twitter.com/basilbenaziz) on Twitter
-- basilbenaziz@gmail.com
+- [Email](basilbenaziz@gmail.com) | <a href="https://twitter.com/basilbenaziz">Twitter</a>
 
 -------
 ## ◊ Skills
