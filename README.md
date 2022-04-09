@@ -3,14 +3,19 @@
 <a href="https://twitter.com/basilbenaziz">Twitter</a>
 </p>
 
+
+
+
+------
 ## ◊ About me 
 -  Mac operating system 
 > 📫 How to reach me:
-- [Email](basilbenaziz@gmail.com) | <a href="https://twitter.com/basilbenaziz">Twitter</a>
+- [E-Mail](mailto:basilbenaziz@gmail.com) | [Twitter](https://twitter.com/basilbenaziz) | 
 
 -------
 ## ◊ Skills
-- 🌱 I’m currently learning **JAVA**
+>Languages
+- **JAVA**
 
 -------
 **Weekly development breakdown**
