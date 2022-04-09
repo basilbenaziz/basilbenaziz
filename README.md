@@ -5,16 +5,19 @@
 
 
 
-
-------
-## ◊ About me 
+# ◊ About me 
 -  Mac operating system 
 > 📫 How to reach me: [E-Mail](mailto:basilbenaziz@gmail.com) | [Twitter](https://twitter.com/basilbenaziz)
 
 -------
-## ◊ Skills
->Languages
-- **JAVA**
+
+
+
+# ◊ Skills
+- Languages: **JAVA** | **C++** 
+
+
+
 
 -------
 **Weekly development breakdown**
