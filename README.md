@@ -1,3 +1,12 @@
+<h2 align="center">👋 Hello! I'm Basil</h2>
+<p align="center">
+<a href="https://twitter.com/basilbenaziz">Twitter</a>
+</p>
+-------
+
+- 🌱 I’m currently learning **JAVA**
+- 📫 How to reach me: [@basilbenaziz](https://twitter.com/basilbenaziz) on Twitter
+
 
 -------
 **Weekly development breakdown**
