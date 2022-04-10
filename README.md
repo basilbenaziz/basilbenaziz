@@ -8,7 +8,7 @@
 
 # ◊ About me 
 -  Mac operating system 
-> 📫 How to reach me: [G-Mail](mailto:basilbenaziz@gmail.com) | [Twitter](https://twitter.com/basilbenaziz)
+> 📫 How to reach me: [E-Mail](mailto:basilbenaziz@gmail.com) | [Twitter](https://twitter.com/basilbenaziz)
 
 
 
