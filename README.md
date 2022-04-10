@@ -1,7 +1,7 @@
 <h2 align="center">
   Hello ! I'm Basil <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  
   
-  <img src="https://media.giphy.com/media/tIHktzgRi8yjIplFVI/giphy.gif" width="1000" height="120" />
+  <img src="https://media.giphy.com/media/tIHktzgRi8yjIplFVI/giphy.gif" width="1000" height="100" />
 </h2>
 
 
