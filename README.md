@@ -21,7 +21,7 @@
 
 # ◊ About me  
 -  Mac operating system 
-> 📫 How to reach me: 
+> How to reach me: 
  [<img src="https://img.icons8.com/fluency/30/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com) |
  [<img src="https://img.icons8.com/fluency/30/000000/twitter.png"/>](https://twitter.com/basilbenaziz)
 
