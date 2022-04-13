@@ -21,8 +21,23 @@
 
 
 # About me
+```yaml
+name: Basil
+located_in: Al-Qatif, Saudi Arabia
+education-status: 2nd year undergrad in Computer Science
+
+languages: ["Java","C++"]
+
+technical_interests: ["Open-source", "Devops"]
+
+currently_learning: ["Java","Python"]
+
+hobbies: ["Investment"]
+
+```
+
 > How to reach me: 
-> 
+
  [<img src="https://img.icons8.com/fluency/30/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
  <img src="https://img.icons8.com/ios/30/000000/insert-white-space.png"/>
  [<img src="https://img.icons8.com/fluency/30/000000/twitter.png"/>](https://twitter.com/basilbenaziz)
