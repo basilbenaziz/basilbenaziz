@@ -32,7 +32,7 @@ technical_interests: ["Open-source", "Devops"]
 
 currently_learning: ["Java","Python"]
 
-hobbies: ["Investment"]
+hobbies: ["Investment","Reading-books"]
 
 ```
 
