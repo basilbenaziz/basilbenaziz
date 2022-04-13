@@ -57,11 +57,11 @@ hobbies: ["Investment"]
 
 >Tools:
 
-<img src="https://img.icons8.com/officel/45/000000/mac-os.png"/><img src="https://img.icons8.com/fluency/45/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/45/000000/xcode.png"/><img src="https://img.icons8.com/color/45/000000/stackoverflow.png"/>
+<img src="https://img.icons8.com/officel/40/000000/mac-os.png"/><img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/40/000000/xcode.png"/><img src="https://img.icons8.com/color/40/000000/stackoverflow.png"/>
 
 >Languages:
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/45/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
 
 
 
