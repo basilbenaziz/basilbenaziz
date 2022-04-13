@@ -1,12 +1,8 @@
-<h2 align="center">
-  
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=F6F6F6&width=500&lines=My+name+is+Basil;Thank's+for+your+visit)](https://git.io/typing-svg)
 
 
-  <img src="https://media.giphy.com/media/tIHktzgRi8yjIplFVI/giphy.gif" width="1000" height="100" />
-  
-</h2>
+
+  <img src="https://media.giphy.com/media/tIHktzgRi8yjIplFVI/giphy.gif" width="1000" height="200" />
+
 
 
 
