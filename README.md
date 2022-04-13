@@ -11,39 +11,48 @@
 
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-# ◊ About me  
--  Mac operating system 
+
+# About me
 > How to reach me: 
- [<img src="https://img.icons8.com/fluency/30/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com) |
+> 
+ [<img src="https://img.icons8.com/fluency/30/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
+ <img src="https://img.icons8.com/ios/30/000000/insert-white-space.png"/>
  [<img src="https://img.icons8.com/fluency/30/000000/twitter.png"/>](https://twitter.com/basilbenaziz)
 
 
 
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-
-<h2> ◊ Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-- Languages:
-
-
-<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+<h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+>Tools:
+
+<img src="https://img.icons8.com/officel/45/000000/mac-os.png"/><img src="https://img.icons8.com/fluency/45/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/45/000000/xcode.png"/><img src="https://img.icons8.com/color/45/000000/stackoverflow.png"/>
+
+>Languages:
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/45/000000/c-plus-plus-logo.png"/>
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
