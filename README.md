@@ -26,7 +26,7 @@ languages: ["Java","C++"]
 
 technical_interests: ["Open-source", "Devops"]
 
-currently_learning: ["Java","Python"]
+currently_learning: ["Java","Python","markdown"]
 
 hobbies: ["Investment","Reading-books"]
 
@@ -57,7 +57,7 @@ hobbies: ["Investment","Reading-books"]
 
 >Languages:
 
-<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/40/000000/markdown.png"/>
 
 
 
