@@ -31,11 +31,9 @@ currently_learning: ["Java","Python","markdown"]
 hobbies: ["Investment","Reading-books"]
 ```
 
-> How to reach me: 
+## How to reach me: 
 
- [<img src="https://img.icons8.com/fluency/30/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
- <img src="https://img.icons8.com/ios/30/000000/insert-white-space.png"/>
- [<img src="https://img.icons8.com/fluency/30/000000/twitter.png"/>](https://twitter.com/basilbenaziz)
+ [<img src="https://img.icons8.com/fluency/35/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
 
 
 
