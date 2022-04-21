@@ -17,3 +17,4 @@ jobs:
           SHOW_TITLE: false
           SHOW_TOTAL: true
           SHOW_TIME: false
+          TIME_RANGE: last_7_days
