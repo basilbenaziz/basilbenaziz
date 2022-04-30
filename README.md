@@ -70,8 +70,8 @@ hobbies: ["Investment","Reading-books"]
 ```text
 Total Time: 3 hrs 35 mins
 
-Java                     █████████████████▓░░░░░░░   70.69 %
-Other                    ███████░░░░░░░░░░░░░░░░░░   28.02 %
+Java                     █████████████████▓░░░░░░░   71.08 %
+Other                    ███████░░░░░░░░░░░░░░░░░░   27.63 %
 ```
 
 <!--END_SECTION:waka-->
