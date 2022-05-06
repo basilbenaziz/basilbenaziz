@@ -70,7 +70,7 @@ hobbies: ["Investment","Reading-books"]
 ```text
 Total Time: 52 mins
 
-Other                      █████████████▒░░░░░░░░░░░   53.78 %
+Other                      █████████████▒░░░░░░░░░░░   53.68 %
 ```
 
 <!--END_SECTION:waka-->
