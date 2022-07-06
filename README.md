@@ -76,7 +76,9 @@ hobbies: ["Investment","Reading-books"]
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 1 hr 53 mins
+
+Swift                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
