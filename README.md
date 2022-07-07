@@ -76,7 +76,7 @@ hobbies: ["Investment","Reading-books"]
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 53 mins
+Total Time: 7 hrs 54 mins
 
 Swift                   █████████████████████████   100.00 %
 ```
