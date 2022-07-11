@@ -26,7 +26,7 @@ languages: ["Java","C++","Swift","Json"]
 
 technical_interests: ["Open-source", "Devops","Apps"]
 
-currently_learning: ["Java","markdown","Swift","Json"]
+currently_learning: ["Swift","Java","Json"]
 
 hobbies: ["Investment","Reading-books"]
 ```
