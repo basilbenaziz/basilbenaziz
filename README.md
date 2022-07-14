@@ -76,11 +76,11 @@ hobbies: ["Investment","Reading-books"]
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 22 hrs 34 mins
+Total Time: 16 hrs 33 mins
 
-Swift                   ███████████████████████▓░   95.27 %
-JSON                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Other                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Swift                   ███████████████████████▒░   93.60 %
+JSON                    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Other                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
