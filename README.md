@@ -22,7 +22,7 @@ name: Basil
 located_in: Al-Qatif, Saudi Arabia
 education-status: 2nd year undergrad in Computer Science
 
-languages: ["Java","C++","Swift","Json"]
+languages: ["Java","Python","C++","Swift","Json"]
 
 technical_interests: ["Open-source", "Devops","Apps"]
 
