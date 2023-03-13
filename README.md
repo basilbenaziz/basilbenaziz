@@ -19,7 +19,7 @@
 # About me
 ```yaml
 name: Basil
-located_in: Al-Qatif, Saudi Arabia
+located_in: Saudi Arabia
 education-status: 2nd year undergrad in Computer Science
 
 languages: ["Java","Python","C++","Swift","Json"]
