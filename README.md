@@ -20,7 +20,7 @@
 ```yaml
 name: Basil
 located_in: Saudi Arabia
-education-status: 2nd year undergrad in Computer Science
+education-status: undergrad in Computer Science
 
 languages: ["Java","Python","C++","Swift","Json"]
 
