@@ -60,7 +60,7 @@ hobbies: ["Investment","Reading-books"]
 
 
 
-###How to reach me: 
+<h1>How to reach me: </h1>
 
  [<img src="https://img.icons8.com/fluency/35/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
 
