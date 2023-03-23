@@ -11,11 +11,6 @@
 
 
 
-
-
-
-
-
 # About me
 ```yaml
 name: Basil
@@ -30,6 +25,8 @@ currently_learning: ["Swift","Java","Json"]
 
 hobbies: ["Investment","Reading-books"]
 ```
+
+
 
 ## How to reach me: 
 
@@ -47,14 +44,7 @@ hobbies: ["Investment","Reading-books"]
 
 
 # Languages and Tools: 
-  
-  
-
-  
-  
-  
->Tools & Languages:
-
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img src="https://img.icons8.com/officel/40/000000/mac-os.png"/>
 <img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/40/000000/xcode.png"/>
