@@ -35,16 +35,16 @@ hobbies: ["Investment","Reading-books"]
 
 
 # Languages and Tools: 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/officel/40/000000/mac-os.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/xcode.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/stackoverflow.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/markdown.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/45/undefined/swift.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/undefined/json--v1.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/officel/40/000000/mac-os.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/xcode.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/stackoverflow.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/000000/markdown.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/45/undefined/swift.png"/>
+<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/40/undefined/json--v1.png"/>
 
 
 
