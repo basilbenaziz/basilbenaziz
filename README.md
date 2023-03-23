@@ -34,7 +34,7 @@ hobbies: ["Investment","Reading-books"]
 
 
 
-# Languages and Tools: 
+<h3>Languages and Tools:</h3> 
 <img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/officel/40/000000/mac-os.png"/>
 <img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/>
