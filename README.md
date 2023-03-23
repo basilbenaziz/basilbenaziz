@@ -63,9 +63,9 @@ hobbies: ["Investment","Reading-books"]
 <h3>How to reach me: </h3>
 
  [<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/35/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
- [<img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>](mailto:basilbenaziz@gmail.com)
+ [<img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>](mailto:[basilbenaziz@gmail.com](https://twitter.com/BasilBenAziz))
  
  
-            <img src= />
+
           
 
