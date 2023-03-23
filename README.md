@@ -27,15 +27,6 @@ hobbies: ["Investment","Reading-books"]
 ```
 
 
-
-## How to reach me: 
-
- [<img src="https://img.icons8.com/fluency/35/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -63,3 +54,13 @@ hobbies: ["Investment","Reading-books"]
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+## How to reach me: 
+
+ [<img src="https://img.icons8.com/fluency/35/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
+
