@@ -17,11 +17,11 @@ name: Basil
 located_in: Saudi Arabia
 education-status: undergrad in Computer Science
 
-languages: ["Java","Python","C++","Swift","Json"]
+languages: ["Java","Python","Swift"]
 
-technical_interests: ["Open-source", "Devops","Apps"]
+technical_interests: ["Machine Learning","Open-source"]
 
-currently_learning: ["Swift","Java","Json"]
+currently_learning: ["Python"]
 
 hobbies: ["Investment","Reading-books"]
 ```
