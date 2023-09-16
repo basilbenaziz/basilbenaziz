@@ -19,7 +19,7 @@ education-status: undergrad in Computer Science
 
 languages: ["Java","Python","Swift"]
 
-technical_interests: ["Machine Learning","Open-source"]
+technical_interests: ["Cyber Security","Open-source"]
 
 currently_learning: ["Python"]
 
