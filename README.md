@@ -1,23 +1,34 @@
+<br clear="both">
 
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/tIHktzgRi8yjIplFVI/giphy.gif"  />
+</div>
 
+###
 
-  <img src="https://media.giphy.com/media/tIHktzgRi8yjIplFVI/giphy.gif" width="1000" height="200" />
+<h2 align="left">🔥   My Stats :</h2>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basilbenaziz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1&custom_title=BasilBenAziz" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilbenaziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<h1 align="center">hey there 👋</h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-# About me
 ```yaml
 name: Basil
 located_in: Saudi Arabia
 education-status: undergrad in Computer Science
-
-languages: ["Java","Python","Swift"]
 
 technical_interests: ["Cyber Security","Open-source"]
 
@@ -27,38 +38,42 @@ hobbies: ["Investment","Reading-books"]
 ```
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/basil-benaziz-48b5ba248/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
+<h2 align="left">🛠 Language and tools</h2>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-<h3>Languages and Tools:</h3> 
-<img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/officel/40/000000/mac-os.png"/>
-<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/>
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=basilbenaziz.basilbenaziz&"  />
+</div>
 
-
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
-
-<h3>How to reach me: </h3>
-
- [<img align="left"  width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/35/000000/email-open.png"/>](mailto:basilbenaziz@gmail.com)
- [<img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>](link:https://twitter.com/BasilBenAziz)
- 
- 
-
-          
-
+###
